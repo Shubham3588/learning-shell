@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 
-ls
+#ls
 cat /etc/passwd
