@@ -9,7 +9,7 @@ echo Hello World
 #Print multiple lines (Print a new lines(/n))
 #Syntax: echo -e "line1 \n line2"
 
-echo -e "Hello, \n How are you doing? \n Good Day"
+echo -e "Hello,\nHow are you doing?\nGood Day"
 
 
 
