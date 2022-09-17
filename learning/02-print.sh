@@ -30,8 +30,8 @@ echo -e "a\tb"
 #Magneta             35               \e[35m
 #CYAN                36                \e[36m
 
-echo "\e[31mPrint in red Color\e[0m"
-echo "Print Normal text"
+echo -e "\e[31mPrint in red Color\e[0m"
+echo -e "Print Normal text"
 
 
 
