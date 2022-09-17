@@ -11,7 +11,9 @@ echo Hello World
 
 echo -e "Hello,\nHow are you doing?\nGood Day"
 
+#Print a tab space using \t
 
+echo -e "a\tb"
 
 
 
